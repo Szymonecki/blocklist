@@ -1,2 +1,0 @@
-#lista zablokowanych plików, katalogów i wzorców, które mają być ignorowane przez system kontroli wersji Git. Pliki i katalogi wymienione w tym pliku nie będą śledzone ani dodawane do repozytorium Git.
-lista_z_adblock.txt
