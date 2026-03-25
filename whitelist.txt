@@ -1,0 +1,15 @@
+@@||main.vscode-cdn.net^$important
+@@||update.code.visualstudio.com^$important
+@@||ms-ceintl.vscode-unpkg.net^$important
+@@||vscode-unpkg.net^$important
+@@||geforce.com^$important
+@@||nvidia.com^$important
+@@||ctldl.windowsupdate.com^$important
+@@||e7.i.lencr.org^$important
+@@||ciam.prod.cookidoo.vorwerk-digital.com^$important
+@@||apps.microsoft.com^$important
+@@||js.monitor.azure.com^$important
+@@||fd.api.iris.microsoft.com^$important
+@@||vtpapi.seat.com^$important
+@@||res.public.onecdn.static.microsoft^$important
+@@||assets.revolut.com^$important
