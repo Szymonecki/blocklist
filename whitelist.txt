@@ -13,3 +13,4 @@
 @@||vtpapi.seat.com^$important
 @@||res.public.onecdn.static.microsoft^$important
 @@||assets.revolut.com^$important
+@@||graph.facebook.com^$important
